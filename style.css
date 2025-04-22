@@ -1,0 +1,14 @@
+@media screen and (max-width: 1080px) {
+  font-size: 16px;
+	div.go {
+    font-color: green
+   } 
+} 
+
+body {
+  margin: 10px
+} 
+
+div.go {
+  font-color: red
+ } 
