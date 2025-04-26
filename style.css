@@ -1,7 +1,7 @@
 @media screen and (max-width: 1080px) {
 	font-size: 16px;
 	div.go {
-		background-color: rgb(63, 212, 78); 
+		font-color: rgb(63, 212, 78); 
 	} 
 } 
 
